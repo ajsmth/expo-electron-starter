@@ -14,11 +14,8 @@ For more info [check out the latest docs!](https://github.com/expo/expo/blob/mas
 ## 🚀 How to use
 
 - Run `yarn` or `npm install`
-- Run `yarn expo-electron start`
-- Wait until the web build is finished and Electron is started.
+- Run `yarn desktop`
 
 ## 📝 Notes
-
-- [Known issue with app entry](https://github.com/expo/expo-cli/issues/1385)
 
 [electron]: https://www.electronjs.org/
